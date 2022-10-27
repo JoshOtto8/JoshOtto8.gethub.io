@@ -13,7 +13,7 @@ LIS Website #1
 
 <body>
   <h1>Welcome to my Website</h1>
-  <p>Here are some things I will be talking about</p>
+  <p>In this website I will be diving into something that I am very passionate about</p>
   <h1>My Favorite Sport</h1>
 <h2>#1 Wrestling</h2>
   <p>Wrestling is my favorite sport because not only does it challenge you physically it also challenges you mentally. Wrestling is a sport in which it is all on you. There are no teammates to help you out when you get stuck or a coach to ask for help. It is all on you and that is why I love it. If you win it was all because of you, and if you lose, all of the blame also rests on your shoulders. Wrestling also helps people grow socially. With a quote from the great Cael Sanderson, "Wrestling in an individual sport, but it builds camaraderie like no other." Wrestling has helped me to gain confidence in social settings and it has taught me to always be humble in victory or defeat.</p>
@@ -22,9 +22,12 @@ LIS Website #1
 <p style="background-color:red;">
 Click the links below to access more information about me
 </p>
-<h4><a href="file:///C:/Users/ottoj/OneDrive/Desktop/highschool.html">High School Wrestling</a></h4>
-  <h4><a href="file:///C:/Users/ottoj/OneDrive/Desktop/recruiting.html">The Recruiting Process</a></h4>
-  <h4><a href="file:///C:/Users/ottoj/OneDrive/Desktop/collegegoals.html">My Goals For This Year</a></h4>
+<a href="https://github.com/JoshOtto8/High-School-wrestling.git" target="_blank" rel="noreferrer noopener">High School Wrestling</a>
+
+<a href="https://github.com/JoshOtto8/Recruiting-process.git" target="_blank" rel="noreferrer noopener">Recruiting Process</a>
+
+<a href="https://github.com/JoshOtto8/college-goals.git" target="_blank" rel="noreferrer noopener">College Goals</a>
 </body>
 
 </html>
+
