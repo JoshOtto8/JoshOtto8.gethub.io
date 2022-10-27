@@ -17,14 +17,14 @@ LIS Website #1
   <h1>My Favorite Sport</h1>
 <h2>#1 Wrestling</h2>
   <p>Wrestling is my favorite sport because not only does it challenge you physically it also challenges you mentally. Wrestling is a sport in which it is all on you. There are no teammates to help you out when you get stuck or a coach to ask for help. It is all on you and that is why I love it. If you win it was all because of you, and if you lose, all of the blame also rests on your shoulders. Wrestling also helps people grow socially. With a quote from the great Cael Sanderson, "Wrestling in an individual sport, but it builds camaraderie like no other." Wrestling has helped me to gain confidence in social settings and it has taught me to always be humble in victory or defeat.</p>
-  <a href="https://www.teamusa.org/USA-Wrestling/Features/2018/April/26/The-Social-Benefits-of-Wrestling">The Social Importance of Wrestling</a>
+<a href="https://www.teamusa.org/USA-Wrestling/Features/2018/April/26/The-Social-Benefits-of-Wrestling" target="_blank" rel="noreferrer noopener">The Social Importance of Wrestling</a>
   <img src="https://th.bing.com/th/id/R.fa191db779038aa55b3158f08d53c068?rik=UBB10t%2btm5NCKg&riu=http%3a%2f%2fwww.trackwrestling.com%2ftw%2fuploads%2fmugshot-1740164009-Josh_Otto_Badger_Pic.jpg&ehk=DuXACi8WMq05rV0O3VggLogKJZ%2f52J08UBJrhO8aWQ0%3d&risl=&pid=ImgRaw&r=0"/>
 <p style="background-color:red;">
 Click the links below to access more information about me
 </p>
-<h4><a href="https://timesofindia.indiatimes.com/">High School Wrestling</a></h4>
-  <h4><a href="https://timesofindia.indiatimes.com/">The Recruiting Process</a></h4>
-  <h4><a href="https://timesofindia.indiatimes.com/">My Goals For This Year</a></h4>
+<h4><a href="file:///C:/Users/ottoj/OneDrive/Desktop/highschool.html">High School Wrestling</a></h4>
+  <h4><a href="file:///C:/Users/ottoj/OneDrive/Desktop/recruiting.html">The Recruiting Process</a></h4>
+  <h4><a href="file:///C:/Users/ottoj/OneDrive/Desktop/collegegoals.html">My Goals For This Year</a></h4>
 </body>
 
 </html>
